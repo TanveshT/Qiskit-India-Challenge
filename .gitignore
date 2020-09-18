@@ -1,0 +1,4 @@
+dataset/
+mnist_train.csv
+mnist_test.csv
+mnist_train.csv.zip
